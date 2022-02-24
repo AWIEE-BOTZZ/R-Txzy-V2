@@ -6,13 +6,13 @@ let handler = async(m, { conn }) => {
 ├ 2 Bulan
 ├ 1 Bulan
 ├ 1 Minggu
-├ Trial 3 Hari
+├ Trial 1 Hari
 └────
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa : 085730903853
-GoPay: 085730903853
+Pulsa : 085852311805
+Dana: 0895367208200
 `.trim()
     const button = {
         buttonText: 'List Harga',
